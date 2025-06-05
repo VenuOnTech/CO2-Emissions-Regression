@@ -130,3 +130,7 @@ joblib.dump(grid.best_estimator_, "xgb_model_co2.pkl")
 
 # Load model
 model = joblib.load("xgb_model_co2.pkl")
+```
+
+### License
+
