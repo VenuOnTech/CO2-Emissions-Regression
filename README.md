@@ -16,7 +16,7 @@ This project builds machine learning models to predict CO2 emissions of vehicles
 - [Modeling](#modeling)
 - [Results](#results)
 - [Saving & Loading Models](#saving--loading-models)
-- [License](#[license](https://github.com/VenuOnTech/CO2-Emissions-Regression/blob/main/LICENSE))
+- [License](https://github.com/VenuOnTech/CO2-Emissions-Regression/blob/main/LICENSE)
 
 ---
 
