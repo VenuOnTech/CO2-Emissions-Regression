@@ -36,6 +36,10 @@ The dataset is based on the EPA Vehicle Fuel Economy data, containing multiple v
 - Transmission, Vehicle Class
 - CO2 Emissions (target variable)
 
+**Dataset Download Link:**  [Vehicles](https://www.fueleconomy.gov/feg/epadata/vehicles.csv)
+
+(The dataset is also upload in the files with the name 'vehicles.csv' if you wanna download go throught the above link.)
+
 ---
 
 ## Features Used
